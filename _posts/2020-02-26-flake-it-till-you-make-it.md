@@ -1,17 +1,19 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Día de Muertos
+subtitle: El Día de Muertos es una tradición mexicana celebrada el 1 y 2 de noviembre en la que se honra a los muertos.
 cover-img: /assets/img/2867098.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
+Es una festividad que se celebra principalmente en México y en países latinoamericanos como Bolivia, Perú, Ecuador, Guatemala y en menor grado en países de América Central y en la región andina en América del Sur, desde el noroeste de Argentina hasta los Estados Unidos, en zonas donde existe una gran población indígena.
+En 2008, la Unesco declaró la festividad como Patrimonio Cultural Inmaterial de la Humanidad de México.3​ Actualmente también se festeja en zonas más al sur, como por ejemplo en Buenos Aires, por migrantes del área andina central, principalmente del occidente de Bolivia, del Noroeste Argentino (NOA), el sureste de Perú, y en Venezuela es celebrado por el pueblo kariña que se le denomina "Akaatompo" o fieles difuntos, también se celebra la llora, todo se trata de celebrar a sus muertos, cabe destacar que el día de los muertos en Venezuela proviene de los nativos y es una costumbre muy antigua que ha cambiado a la llegada de los españoles.
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+La celebración entre los mexicas
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+Mujer con copal durante la "alumbrada" de San Andrés Míxquic
+Para los antiguos mesoamericanos, la muerte no tenía las connotaciones morales de la religión cristiana, en la que las ideas de infierno y paraíso sirven para castigar o premiar. Por el contrario, ellos creían que los rumbos destinados a las almas de los muertos estaban determinados por el tipo de muerte que habían tenido, y no por su comportamiento en la vida.
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+Las principales civilizaciones representativas del área mesoamericana, aztecas y mayas, desarrollaron una rica ritualística alrededor del culto de los antepasados y de la muerte en sí misma, lo que constituyó el precedente del actual Día de Muertos, en el que pervive aún parcialmente la cosmovisión de aquellos pueblos.
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
