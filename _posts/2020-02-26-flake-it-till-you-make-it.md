@@ -3,7 +3,7 @@ layout: post
 title: Día de Muertos
 subtitle: El Día de Muertos es una tradición mexicana celebrada el 1 y 2 de noviembre en la que se honra a los muertos.
 cover-img: /assets/img/2867098.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/4318328.jpg
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
